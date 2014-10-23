@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="20" height="20" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tilez" tilewidth="32" tileheight="32">
+  <image source="tilez.png" width="32" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBhZgBEN08rsoWQutc2kpfmjgDyAnu5pnU5H4x4CCIUHobDCF6b44pQe8Q0CAHFMADM=
+  </data>
+ </layer>
+ <objectgroup name="Object Layer 1">
+  <object x="1" y="98" width="126" height="30"/>
+  <object x="95" y="130" width="96" height="29"/>
+  <object x="159" y="161" width="98" height="32"/>
+  <object x="226" y="195" width="62" height="28"/>
+  <object x="354" y="225" width="64" height="33"/>
+  <object x="257" y="228" width="32" height="26"/>
+  <object x="321" y="386" width="191" height="29"/>
+  <object x="481" y="421" width="159" height="28"/>
+  <object x="1" y="578" width="159" height="30"/>
+  <object x="130" y="545" width="126" height="32"/>
+  <object x="225" y="579" width="193" height="28"/>
+  <object x="385" y="546" width="98" height="32"/>
+  <object x="449" y="578" width="194" height="30"/>
+ </objectgroup>
+</map>
