@@ -1,0 +1,4 @@
+
+(function(){
+    var sup = "wuzzup???";
+})();
