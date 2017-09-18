@@ -1,2 +1,2 @@
 
-var sup yall = 'hey yall!!!';
+var supyall = 'hey yall!!!';
