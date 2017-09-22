@@ -5,4 +5,5 @@
     var justyn = "cool guy photographer";
     var lee = "jonesy jones";
 	var sheboygan = "new jersey";
+	var seattle = "hilarious";
 })();
